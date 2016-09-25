@@ -1,0 +1,2 @@
+# AlgorithmsPartI
+Assignments per week
